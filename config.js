@@ -4,7 +4,7 @@ require("dotenv").config();
 const config = {
   port: Number.parseInt(process.env.PORT || "3000", 10),
   nodeEnv: process.env.NODE_ENV || "development",
-  siteName: process.env.SITE_NAME || "Yashant Chaudhary | Portfolio",
+  siteName: process.env.SITE_NAME || "Saurav Chaudhary | Portfolio",
   contactEmail: process.env.CONTACT_EMAIL || ""
 };
 

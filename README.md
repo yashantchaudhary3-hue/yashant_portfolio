@@ -1,4 +1,4 @@
-# Yashant Chaudhary — Public Portfolio
+# Saurav Chaudhary — Public Portfolio
 
 A responsive personal portfolio with a static frontend and an Express API for contact messages.
 

@@ -1,8 +1,8 @@
 {
-  "name": "yashant-chaudhary-portfolio",
+  "name": "saurav-chaudhary-portfolio",
   "version": "1.0.0",
   "private": true,
-  "description": "Full-stack personal portfolio for Yashant Chaudhary",
+  "description": "Full-stack personal portfolio for Saurav Chaudhary",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
