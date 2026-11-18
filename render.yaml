@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yashant-chaudhary-portfolio
+    name: saurav-chaudhary-portfolio
     runtime: node
     plan: starter
     buildCommand: npm install
@@ -10,7 +10,7 @@ services:
       - key: NODE_ENV
         value: production
       - key: SITE_NAME
-        value: Yashant Chaudhary | Developer Portfolio
+        value: Saurav Chaudhary | Developer Portfolio
     disk:
       name: portfolio-messages
       mountPath: /opt/render/project/src/data
